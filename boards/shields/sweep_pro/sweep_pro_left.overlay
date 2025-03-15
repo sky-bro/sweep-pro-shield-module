@@ -1,0 +1,5 @@
+#include "sweep_pro.dtsi"
+
+&left_encoder {
+    status = "okay";
+};

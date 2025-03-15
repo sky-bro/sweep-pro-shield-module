@@ -1,0 +1,9 @@
+#include "sweep_pro.dtsi"
+
+&default_transform {
+	col-offset = <5>;
+};
+
+&right_encoder {
+    status = "okay";
+};
